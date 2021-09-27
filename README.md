@@ -19,3 +19,18 @@ Where:
 $l = new language('en');
 echo $l->get('index');
 ```
+en.php
+```php
+<?php
+return [
+        'index' => 'Your index is',
+]
+```
+
+es.php
+```php
+<?php
+return [
+        'index' => 'Tu índice es',
+]
+```
