@@ -24,7 +24,7 @@ en.php
 <?php
 return [
         'index' => 'Your index is',
-]
+];
 ```
 
 es.php
@@ -32,5 +32,5 @@ es.php
 <?php
 return [
         'index' => 'Tu índice es',
-]
+];
 ```
